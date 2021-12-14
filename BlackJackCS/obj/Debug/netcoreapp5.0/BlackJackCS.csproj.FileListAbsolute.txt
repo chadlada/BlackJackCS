@@ -1,0 +1,15 @@
+/Users/chadlada/Desktop/sdg/BlackJackCS/obj/Debug/netcoreapp5.0/BlackJackCS.csproj.AssemblyReference.cache
+/Users/chadlada/Desktop/sdg/BlackJackCS/obj/Debug/netcoreapp5.0/BlackJackCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chadlada/Desktop/sdg/BlackJackCS/obj/Debug/netcoreapp5.0/BlackJackCS.AssemblyInfoInputs.cache
+/Users/chadlada/Desktop/sdg/BlackJackCS/obj/Debug/netcoreapp5.0/BlackJackCS.AssemblyInfo.cs
+/Users/chadlada/Desktop/sdg/BlackJackCS/obj/Debug/netcoreapp5.0/BlackJackCS.csproj.CoreCompileInputs.cache
+/Users/chadlada/Desktop/sdg/BlackJackCS/bin/Debug/netcoreapp5.0/BlackJackCS.deps.json
+/Users/chadlada/Desktop/sdg/BlackJackCS/bin/Debug/netcoreapp5.0/BlackJackCS.runtimeconfig.json
+/Users/chadlada/Desktop/sdg/BlackJackCS/bin/Debug/netcoreapp5.0/BlackJackCS.runtimeconfig.dev.json
+/Users/chadlada/Desktop/sdg/BlackJackCS/bin/Debug/netcoreapp5.0/BlackJackCS.dll
+/Users/chadlada/Desktop/sdg/BlackJackCS/bin/Debug/netcoreapp5.0/ref/BlackJackCS.dll
+/Users/chadlada/Desktop/sdg/BlackJackCS/bin/Debug/netcoreapp5.0/BlackJackCS.pdb
+/Users/chadlada/Desktop/sdg/BlackJackCS/obj/Debug/netcoreapp5.0/BlackJackCS.dll
+/Users/chadlada/Desktop/sdg/BlackJackCS/obj/Debug/netcoreapp5.0/ref/BlackJackCS.dll
+/Users/chadlada/Desktop/sdg/BlackJackCS/obj/Debug/netcoreapp5.0/BlackJackCS.pdb
+/Users/chadlada/Desktop/sdg/BlackJackCS/obj/Debug/netcoreapp5.0/BlackJackCS.genruntimeconfig.cache
